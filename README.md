@@ -10,4 +10,4 @@ One of the key learnings from this project was understanding the different class
 
 Stay tuned for more insights and detailed breakdowns of each phase of this exciting journey!
 
-#MachineLearning #DataScience #DiabetesPrediction #PredictiveAnalytics #Python #LinkedInLearning
+#MachineLearning #DataScience #DiabetesPrediction #PredictiveAnalytics #Python 
